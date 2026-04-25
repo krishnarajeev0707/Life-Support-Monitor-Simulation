@@ -28,8 +28,8 @@ A simulation of a life support monitoring system that tracks essential parameter
 - Clear visual indication of system state
 
 ## Tech Stack
-- Programming Language: [Your Language Here]
-- Framework / Library: [If any]
+- Programming Language: Python
+- Framework / Library: Tkinter GUI, Numpy, MatPlotLib
 
 ## Getting Started
 
